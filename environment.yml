@@ -108,4 +108,3 @@ dependencies:
     - gym-notices==0.0.6
     - keras-rl2==1.0.5
     - pygame==2.1.2
-prefix: /Users/zeus/miniforge3/envs/yayaBase2
